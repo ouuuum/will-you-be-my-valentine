@@ -45,8 +45,8 @@ function generateMessage(noCount) {
     "No",
     "HOW DARE U U BAKAAAAAAA?",
     "you think you have a choice huh ",
-    " GO PRESS YES :)",
-    "  YES??? :) ",
+    "GO PRESS YES :)",
+    "YES??? :) ",
   ];
 
 
