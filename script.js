@@ -4,7 +4,7 @@ const titleElement = document.querySelector(".title");
 const buttonsContainer = document.querySelector(".buttons");
 const yesButton = document.querySelector(".btn--yes");
 const noButton = document.querySelector(".btn--no");
-const catImg = document.querySelector(".cat-img");
+const catImg = document.querySelector(".cat-1");
 
 const MAX_IMAGES = 5;
 
@@ -46,7 +46,7 @@ function generateMessage(noCount) {
     "HOW DARE U U BAKAAAAAAA?",
     "you think you have a choice huh ",
     " GO PRESS YES :)",
-    "  YES :)",
+    "  YES??? :) ",
   ];
 
 
