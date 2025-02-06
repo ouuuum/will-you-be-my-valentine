@@ -44,18 +44,18 @@ function generateMessage(noCount) {
   const messages = [
     "No",
     "Are you sure?",
-    "Pookie please",
-    "Don't do this to me :(",
-    "You're breaking my heart",
-    "I'm gonna cry...",
-  ];
+    " "HOW DARE U U BAKAAAAAAA?",
+    "you think you have a choice huh ",
+    " GO PRESS YES :)",
+    "  YES??? :) ",
+    ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
   return messages[messageIndex];
 }
 
 function changeImage(image) {
-  catImg.src = `img/cat-${image}.jpg`;
+  catImg.src = `img/cat-1.jpg`;
 }
 
 function updateNoButtonText() {
