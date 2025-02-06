@@ -45,8 +45,10 @@ function generateMessage(noCount) {
     "No",
     "HOW DARE U U BAKAAAAAAA?",
     "you think you have a choice huh ",
-    "NOW GO PRESS YES :)",
+    " GO PRESS YES :)",
+    "  YES :)",
   ];
+
 
   const messageIndex = Math.min(noCount, messages.length - 1);
   return messages[messageIndex];
